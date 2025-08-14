@@ -7,15 +7,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
         const perguntas = [
     {
-        enunciado: " Qual a principal festa do México?",
+        enunciado: " Como você acredita que a inclusão impacta o ambiente escolar?",
         alternativas: [
             {
-                texto: "Dia da Nossa Senhora de Guadalupe!",
-                afirmacao: "A festa incluiu ritus religiosos, comidas e bebidas com conotações,especialmente na Basílica de Guadalupe, na Cidade do México. "
+                texto: "Facilita a convivência e promove o respeito entre todos.",
+                afirmacao: " "
             },
             {
-                texto: "Dia da Assunção da Virgem Maria!",
-                afirmacao: "Em algumas regiões, a celebrações podem durar até duas semanas. "
+                texto: "Pode gerar desafios, mas é essencial para o crescimento coletivo.",
+                afirmacao: " "
             }
         ]
     },
