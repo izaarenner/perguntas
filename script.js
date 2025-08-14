@@ -11,63 +11,63 @@ const textoResultado = document.querySelector(".texto-resultado");
         alternativas: [
             {
                 texto: "Facilita a convivência e promove o respeito entre todos.",
-                afirmacao: " "
+                afirmacao: "Você valoriza um ambiente harmonioso, onde o respeito e a convivência são pilares fundamentais para o crescimento de todos. "
             },
             {
                 texto: "Pode gerar desafios, mas é essencial para o crescimento coletivo.",
-                afirmacao: " "
+                afirmacao: "Você reconhece que, embora a inclusão traga desafios, ela é indispensável para o desenvolvimento coletivo. "
             }
         ]
     },
     {
-        enunciado: " Qual das principais pirâmides do Méxcio você conhece mais? ",
+        enunciado: " Na sua opinião, qual é o maior benefício da inclusão no trabalho? ",
         alternativas: [
             {
-                texto: "Pirâmide do Sol",
-                afirmacao: "- É uma das pirâmides mais antigas e importantes de Teotihuacán, localizada a cerca de 40 km da Cidade do México.Com 65 metros de altura, é a terceira maior pirâmide do mundo e oferece uma vista incrível da cidade antiga."
+                texto: "A diversidade traz mais criatividade e inovação.",
+                afirmacao: "Você acredita que a diversidade é uma fonte inesgotável de criatividade e inovação. "
             },
             {
-                texto: "Pirâmide da Lua",
-                afirmacao: "- Localizada no final da Avenida dos Mortos, a Pirâmide da Lua é uma estrutura impressionante que forma um complexo com a Pirâmide do Sol e outras estruturas.Com 45 metros de altura, é um exemplo da arquitetura e engenharia avançada dos povos pré-colombianos"
+                texto: "Promove um ambiente mais justo e igualitário para todos.",
+                afirmacao: "Para você, um ambiente de trabalho justo é aquele que promove igualdade para todos, sem exceção. "
             }
         ]
     },
     {
-        enunciado: "Para você o que é o mais importante?",
+        enunciado: "Você acredita que a inclusão é responsabilidade de quem?",
         alternativas: [
             {
-                texto: "A Importância Cultural e Histórica",
-                afirmacao: "A obra de Frida Kahlo é importante para a arte mexicana porque reflete a identidade cultural e histórica do México, incorporando elementos da arte popular e da mitologia pré-hispânica."
+                texto: "De toda a sociedade, pois todos devem contribuir para um mundo melhor.",
+                afirmacao: "Você acredita que a responsabilidade pela inclusão é de todos nós, e que juntos podemos construir um mundo melhor. "
             },
             {
-                texto: "Inovação Artística e Expressão Pessoal",
-                afirmacao: "A obra de Frida Kahlo é importante para a arte mexicana porque inova e experimenta com diferentes estilos e técnicas, misturando elementos do surrealismo, do realismo e da arte popular."
+                texto: "Principalmente das instituições, que devem criar políticas eficazes.",
+                afirmacao: "Você vê as instituições como protagonistas na criação de políticas que garantam a inclusão efetiva."
             }
         ]
     },
     {
-        enunciado: " Qual festa em sua visão é a principal festa do México?",
+        enunciado: " Quando você vê uma pessoa com deficiência participando ativamente da sociedade, o que pensa?",
         alternativas: [
             {
-                texto: "Dia dos Mortos (Día de los Muertos)",
-                afirmacao: "É uma celebração única e icônica do México, realizada em 1º e 2 de novembro, para homenagear os entes queridos falecidos.As famílias criam altares elaborados com fotos, flores, velas e alimentos favoritos dos mortos."
+                texto: "Que ela merece respeito e as mesmas oportunidades que qualquer pessoa.",
+                afirmacao: " Você defende que todas as pessoas merecem respeito e oportunidades iguais, independentemente de suas condições."
             },
             {
-                texto: "Carnaval de Veracruz:",
-                afirmacao: "É uma festa animada e cheia de energia, realizada em fevereiro, com desfiles, música e dança.A cidade de Veracruz se transforma em um epicentro de festividades, com influências africanas, indígenas e espanholas."
+                texto: "Que a sociedade ainda precisa se adaptar melhor para garantir essa participação.",
+                afirmacao: "Você entende que a sociedade ainda precisa evoluir para garantir a participação plena de todos. "
             }
         ]
     },
     {
-        enunciado: "Qual dessas comidas típicas do México você mais gosta?",
+        enunciado: "Como você age quando percebe alguma situação de exclusão ou preconceito?",
         alternativas: [
             {
-                texto: "Tacos",
-                afirmacao: "Tortilha de milho ou de trigo rechedas com uma variedade de ingredientes."
+                texto: " Procuro intervir e ajudar a mudar a situação.",
+                afirmacao: "Você é uma pessoa ativa e que não hesita em agir diante do preconceito ou da exclusão. "
             },
             {
-                texto: " Sopes",
-                afirmacao: "Pequenas tortilhas de milho cobertas com feijão, queijo e carne"
+                texto: " Tento entender o contexto antes de agir para não causar desconforto.",
+                afirmacao: "Você prefere observar e compreender o contexto antes de tomar uma atitude, para agir com mais consciência. "
             }
         ]
     },
